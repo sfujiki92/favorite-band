@@ -1,0 +1,30 @@
+img {
+  float: left;
+  padding: 2px;
+  border: solid pink;
+  margin: 25px;
+}
+
+.sidebar {
+  width: 30%;
+  float: right;
+  background-color: pink;
+  margin: 20px;
+  border: 2px solid teal;
+  padding: 5px;
+  color: teal;
+}
+
+.albums {
+  width: 30%;
+  float: left;
+  background-color: teal;
+  margin: 20px;
+  border: 2px solid pink;
+  padding: 5px;
+  color: pink;
+}
+
+p {
+  font-style: italic;
+}
